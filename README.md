@@ -1,4 +1,4 @@
-# CS648 Assignment-7
+# CS648 Assignment-2 Lab 1
 
 <img src="screenshots/1.png" alt="">
 <img src="screenshots/2.png" alt="">
