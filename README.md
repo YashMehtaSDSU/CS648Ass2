@@ -8,4 +8,4 @@
 <img src="screenshots/6.png" alt="">
 
 # CS648 Assignment-2 Lab 2
-<img src="screenshots/1.png" alt="">
+<img src="screenshots/2_1.png" alt="">
